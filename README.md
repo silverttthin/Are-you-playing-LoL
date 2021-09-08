@@ -1,2 +1,2 @@
 # Are-you-playing-LoL
-This is a simple program that tells you if someone is playing a role.
+This is very very simple program that send an alarm when someone is playing league of legends.
